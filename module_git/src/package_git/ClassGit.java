@@ -6,5 +6,6 @@ public class ClassGit {
         System.out.println("hello.git1");
         System.out.println("hot-fix modify");
         System.out.println("master modify");
+        System.out.println("hot-fix modify-1");
     }
 }
